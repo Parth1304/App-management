@@ -1,0 +1,12 @@
+[
+    {
+        "app_name": "App 1",
+        "version": "1.0",
+        "description": "First app"
+    },
+    {
+        "app_name": "App 2",
+        "version": "2.0",
+        "description": "Second app"
+    }
+]
